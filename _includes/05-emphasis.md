@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My h1 header
+
+Below is a _list_ of my **technical skills**
+
+## Programming languages
+1. Java
+2. Python
+3. TypeScript
+
+## Collaboration
+- GitHub
+- Git
